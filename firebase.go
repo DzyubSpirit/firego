@@ -32,7 +32,7 @@ type ErrTimeout struct {
 
 // query parameter constants
 const (
-	authParam         = "auth"
+	authParam         = "access_token"
 	shallowParam      = "shallow"
 	formatParam       = "format"
 	formatVal         = "export"
